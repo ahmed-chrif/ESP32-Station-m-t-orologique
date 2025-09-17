@@ -1,0 +1,20 @@
+# PlatformIO
+.pio
+.pioenvs
+.piolibdeps
+
+# Arduino
+*.elf
+*.bin
+*.hex
+
+# Environnements de développement
+.vscode/
+.idea/
+
+# Fichiers temporaires
+*.tmp
+*.temp
+
+# Logs
+*.log
